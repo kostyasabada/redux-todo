@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/redux-todo/static/css/main.5f361e03.chunk.css",
+    "main.js": "/redux-todo/static/js/main.295dee5c.chunk.js",
+    "main.js.map": "/redux-todo/static/js/main.295dee5c.chunk.js.map",
+    "runtime-main.js": "/redux-todo/static/js/runtime-main.0b6e7e65.js",
+    "runtime-main.js.map": "/redux-todo/static/js/runtime-main.0b6e7e65.js.map",
+    "static/js/2.0ef0f3ac.chunk.js": "/redux-todo/static/js/2.0ef0f3ac.chunk.js",
+    "static/js/2.0ef0f3ac.chunk.js.map": "/redux-todo/static/js/2.0ef0f3ac.chunk.js.map",
+    "index.html": "/redux-todo/index.html",
+    "precache-manifest.826a497e3d658f514618650378c1c962.js": "/redux-todo/precache-manifest.826a497e3d658f514618650378c1c962.js",
+    "service-worker.js": "/redux-todo/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/redux-todo/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.0ef0f3ac.chunk.js.LICENSE.txt": "/redux-todo/static/js/2.0ef0f3ac.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/redux-todo/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b6e7e65.js",
+    "static/js/2.0ef0f3ac.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.295dee5c.chunk.js"
+  ]
+}
